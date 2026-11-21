@@ -1,0 +1,61 @@
+2026-10-26 09:50, Sensors&Actuators T F-402 @10:00 DEA, Class, weekly
+2026-10-26 11:00, VLSI T F-402 @11:10 ARPA, Class, weekly
+2026-10-26 12:00, Comp Vision T F-402 @12:10 MORO, Class, weekly
+2026-10-26 14:00, SEPM Lab E112-113 @14:10 SASA, Lab, weekly
+2026-10-26 16:05, SEPM T F-402 @16:15 SASA, Class, weekly
+2026-10-26 17:05, Big Data T F-402 @17:15 SHIV, Class, weekly
+2026-10-27 11:00, Big Data T F-402 @11:10 SHIV, Class, weekly
+2026-10-27 12:00, Comp Vision T F-402 @12:10 MORO, Class, weekly
+2026-10-27 14:00, IoT Lab F-204 @14:10 ABJO, Lab, weekly
+2026-10-28 08:50, Big Data Lab E112-113 @09:00 AYMA, Lab, weekly
+2026-10-28 11:00, SEPM T F-402 @11:10 SASA, Class, weekly
+2026-10-28 12:00, Sensors&Actuators T F-402 @12:10 DEA, Class, weekly
+2026-10-28 14:00, VLSI Lab E112-113 @14:10 ARPA, Lab, weekly
+2026-10-28 16:05, Sensors&Act Lab F-204 @16:15 DEA, Lab, weekly
+2026-10-29 08:50, NLP Lab E112-113 @09:00 JRS, Lab, weekly
+2026-10-29 11:00, NLP T F-402 @11:10 JRS, Class, weekly
+2026-10-29 12:00, IoT T F-402 @12:10 ABJO, Class, weekly
+2026-10-30 08:50, Comp Vision Lab E212-3 @09:00 MORO, Lab, weekly
+2026-10-30 11:00, IoT T F-402 @11:10 ABJO, Class, weekly
+2026-10-30 12:00, VLSI T F-402 @12:10 ARPA, Class, weekly
+2026-10-30 14:00, NLP T F-402 @14:10 JRS, Class, weekly
+2026-10-26 06:30, Wake up - drink water + freshen up, Routine, weekly
+2026-10-27 06:30, Wake up - drink water + freshen up, Routine, weekly
+2026-10-28 06:30, Wake up - drink water + freshen up, Routine, weekly
+2026-10-29 06:30, Wake up - drink water + freshen up, Routine, weekly
+2026-10-30 06:30, Wake up - drink water + freshen up, Routine, weekly
+2026-10-24 07:30, Wake up (weekend), Routine, weekly
+2026-10-25 07:30, Wake up (weekend), Routine, weekly
+2026-10-26 06:50, Morning walk 20-30 min, Health, weekly
+2026-10-28 06:50, Morning walk 20-30 min, Health, weekly
+2026-10-30 06:50, Morning walk 20-30 min, Health, weekly
+2026-10-27 17:50, Gym @18:00 - bottle + shoes + towel, Health, weekly
+2026-10-29 17:50, Gym @18:00 - bottle + shoes + towel, Health, weekly
+2026-10-24 17:20, Gym @17:30 - bottle + shoes + towel, Health, weekly
+2026-10-24 21:30, Plan tomorrow + pack bag + charge phone, Routine, daily
+2026-10-24 23:00, Sleep time - phone away, Health, daily
+2026-10-25 19:30, Lab records + assignments for the week, Study, weekly
+2026-11-15 10:00, Bike service due? Check km + oil, Vehicle, once
+2027-02-14 10:00, Bike service due? Check km + oil, Vehicle, once
+2027-05-16 10:00, Bike service due? Check km + oil, Vehicle, once
+2026-11-22 10:00, Car service due? Check km + date, Vehicle, once
+2027-05-23 10:00, Car service due? Check km + date, Vehicle, once
+2026-12-06 10:00, Vehicle insurance + PUC expiry check, Vehicle, once
+2026-11-02 19:00, Mobile / Wi-Fi recharge - check due, Bill, once
+2026-11-05 19:00, Light (electricity) bill - check & pay, Bill, once
+2026-11-08 19:00, Gas bill / LPG cylinder - check & pay, Bill, once
+2026-12-02 19:00, Mobile / Wi-Fi recharge - check due, Bill, once
+2026-12-05 19:00, Light (electricity) bill - check & pay, Bill, once
+2026-12-08 19:00, Gas bill / LPG cylinder - check & pay, Bill, once
+2027-01-02 19:00, Mobile / Wi-Fi recharge - check due, Bill, once
+2027-01-05 19:00, Light (electricity) bill - check & pay, Bill, once
+2027-01-08 19:00, Gas bill / LPG cylinder - check & pay, Bill, once
+2027-02-02 19:00, Mobile / Wi-Fi recharge - check due, Bill, once
+2027-02-05 19:00, Light (electricity) bill - check & pay, Bill, once
+2027-02-08 19:00, Gas bill / LPG cylinder - check & pay, Bill, once
+2027-03-02 19:00, Mobile / Wi-Fi recharge - check due, Bill, once
+2027-03-05 19:00, Light (electricity) bill - check & pay, Bill, once
+2027-03-08 19:00, Gas bill / LPG cylinder - check & pay, Bill, once
+2027-04-02 19:00, Mobile / Wi-Fi recharge - check due, Bill, once
+2027-04-05 19:00, Light (electricity) bill - check & pay, Bill, once
+2027-04-08 19:00, Gas bill / LPG cylinder - check & pay, Bill, once
